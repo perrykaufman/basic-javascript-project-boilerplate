@@ -23,8 +23,8 @@ The basic project structure. Webpack aliases are included in parentheses.
 
 * **src/** (@) project code
 * **src/index.html** web page
-* **src/index.js** (@public) root javascript file
-* **src/public/** static assets copied to root directory 
+* **src/index.js** root javascript file
+* **src/public/** (@public) static assets copied to root directory 
 * **src/styles/** (@styles) styles, each file must be imported into index.js
 * **src/lib/** (@lib) javascript files
 * **test/** (@test) test files ending with *.test.js
